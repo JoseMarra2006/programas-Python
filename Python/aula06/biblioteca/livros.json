@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "título": "Harry Potter",
+        "autor": "J.K Rowling",
+        "ano": "1997"
+    },
+    {
+        "id": 2,
+        "título": "Percy Jackson",
+        "autor": "Rick Riordan",
+        "ano": "2005"
+    }
+]
